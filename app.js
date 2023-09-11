@@ -49,7 +49,7 @@ D.addEventListener("click", function(){
   location = "./ComfirmAvailability/Comfirm_Availability.html";
 });
 E.addEventListener("click", function(){
-  location = "/Comfirm Availability/Comfirm_Availability.html";
+  location = "./ComfirmAvailability/Comfirm_Availability.html";
 });
 F.addEventListener("click", function(){
   location = "./ComfirmAvailability/Comfirm_Availability.html";
