@@ -88,38 +88,38 @@ let img11 = document.getElementById("img11");
 let img12 = document.getElementById("img12");
 
 img01.addEventListener("click", function(){
-  location = "/sub_page/sub_01.html";
+  location = "./sub_page/sub_01.html";
 });
 img02.addEventListener("click", function(){
-  location = "/sub_page/sub_02.html";
+  location = "./sub_page/sub_02.html";
 });
 img03.addEventListener("click", function(){
-  location = "/sub_page/sub_01.html";
+  location = "./sub_page/sub_01.html";
 });
 img04.addEventListener("click", function(){
-  location = "/sub_page/sub_02.html";
+  location = "./sub_page/sub_02.html";
 });
 img05.addEventListener("click", function(){
-  location = "/sub_page/sub_01.html";
+  location = "./sub_page/sub_01.html";
 });
 img06.addEventListener("click", function(){
-  location = "/sub_page/sub_02.html";
+  location = "./sub_page/sub_02.html";
 });
 img07.addEventListener("click", function(){
-  location = "/sub_page/sub_01.html";
+  location = "./sub_page/sub_01.html";
 });
 img08.addEventListener("click", function(){
-  location = "/sub_page/sub_02.html";
+  location = "./sub_page/sub_02.html";
 });
 img09.addEventListener("click", function(){
-  location = "/sub_page/sub_01.html";
+  location = "./sub_page/sub_01.html";
 });
 img10.addEventListener("click", function(){
-  location = "/sub_page/sub_02.html";
+  location = "./sub_page/sub_02.html";
 });
 img11.addEventListener("click", function(){
   location = "./sub_page/sub_01.html";
 });
 img12.addEventListener("click", function(){
-  location = "/sub_page/sub_02.html";
+  location = "./sub_page/sub_02.html";
 });
